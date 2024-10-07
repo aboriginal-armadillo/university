@@ -36,7 +36,7 @@ This comprehensive two-year program is designed to equip students with the skill
     - Kitchen equipment usage
     - Sanitation and food safety standards
 
-**3. Food Science and Ingredient Functionality**
+**[CA-103 Food Science and Ingredient Functionality](/dept/culinary-arts/ca103/)**
 - *Course Description:* Understanding the science behind cooking and the functional properties of plant-based ingredients.
 - *Key Topics:*
     - Basic chemistry of cooking
