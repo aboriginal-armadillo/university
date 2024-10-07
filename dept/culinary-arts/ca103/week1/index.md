@@ -10,8 +10,9 @@ subtitle: Introduction to Food Science in Cooking
 
 {%include_relative understanding-molecules.md %}
 
-### Safety protocols in a food science lab
-Replace this with something more fun.
+### The Maillard Reaction
+
+[Youtube Video](https://www.youtube.com/watch?v=5lKzZc_OO7U)
 
 ## Dishes to Make:
 
