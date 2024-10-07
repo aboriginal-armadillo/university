@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+}
+
+.image-gutter {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 33vw;
+    max-width: 33vw;
+    height: auto;
+    box-sizing: border-box;
+    padding: 10px;
+    z-index: 1; /* Ensure the image is above other content */
+}
+
+.image-gutter img {
+    width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 4px;
+}
+
+.content {
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-left: 33vw; /* Ensure content does not overlap the image */
+    margin-right: 10px; /* Optional: Add some right spacing for aesthetics */
+}

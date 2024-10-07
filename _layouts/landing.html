@@ -34,7 +34,10 @@
             width: 100%;
             margin: 0 20px;
         }
-
+        .carousel-caption {
+            color: white;
+            text-align: right;
+        }
         /* Full-screen section style */
         .section {
             display: flex;
@@ -123,6 +126,14 @@
             margin-bottom: 20px;
             color: white;
         }
+
+        #programs p {
+            font-size: 1.2rem;
+            max-width: 800px;
+            /*margin: 0 auto;*/
+            color: lightgray;
+
+        }
     </style>
 </head>
 <body>
@@ -154,11 +165,13 @@
             <!-- Carousel items -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="assets/images/programs/plant-based-culinary-arts.jpg" class="d-block w-100" alt="Plant Based Culinary Arts">
-                    <div class="carousel-caption d-none d-md-block text-box overlay-box">
-                        <h5>Plant Based Culinary Arts</h5>
-                        <p>Description of Program 1</p>
-                    </div>
+                    <a href="programs/plant-based-culinary-arts/">
+                        <img src="assets/images/programs/plant-based-culinary-arts.jpg" class="d-block w-100" alt="Plant Based Culinary Arts">
+                        <div class="carousel-caption d-none d-md-block text-box overlay-box">
+                            <h5>Plant Based Culinary Arts</h5>
+                            <p>This comprehensive two-year program is designed to equip students with the skills and knowledge necessary to excel in the field of plant-based culinary arts. Emphasizing both traditional culinary techniques and innovative plant-based approaches, the curriculum covers a wide range of topics from foundational cooking methods to advanced culinary artistry, nutrition, and sustainable practices.</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="carousel-item">
                     <img src="assets/images/programs/quantum-computing.jpg" class="d-block w-100" alt="Quantum Computing With Qumat">
