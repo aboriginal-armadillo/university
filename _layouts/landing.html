@@ -126,10 +126,13 @@
 <!-- About Us Section (Full-screen) -->
 <div class="section section--highlight" id="about-us">
     <div>
-        {% include_relative about_txt.md %}
+        <h2>About Us</h2>
+        {% capture about_content %}
+            {% include_relative about_txt.md %}
+        {% endcapture %}
+        {{ about_content | markdownify }}
     </div>
 </div>
-
 <div class="section" id="footer">
     {% include footer.html %}
 </div>
