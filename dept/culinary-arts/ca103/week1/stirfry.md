@@ -1,5 +1,5 @@
 ---
-layout: subweek
+layout: recipe
 title: Vegetable Stir-Fry
 ---
 

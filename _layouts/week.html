@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+</head>
+<body>
+<div class="container my-5">
+    <h1 class="text-center mb-4">{{ page.title }}</h1>
+    <h2 class="text-center text-muted">{{ page.subtitle }}</h2>
+
+    <div class="mt-5">
+        <h3>Key Topics:</h3>
+        <ul class="list-group">
+            {% for topic in site.data.week1.topics %}
+            <li class="list-group-item">{{ topic }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="mt-5">
+        <h3>Dishes to Make:</h3>
+        <ul class="list-group">
+            {% for dish in site.data.week1.dishes %}
+            <li class="list-group-item"><a href="{{ dish.url }}" class="stretched-link">{{ dish.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+    <div class="mt-5">
+        <h3>Bonus Content:</h3>
+        <ul class="list-group">
+            {% for bonus in site.data.week1.bonus %}
+            <li class="list-group-item"><a href="{{ bonus.url }}" class="stretched-link">{{ bonus.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+
+</div>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

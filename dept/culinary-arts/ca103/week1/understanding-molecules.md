@@ -1,3 +1,8 @@
+---
+layout: lecture
+title: Understanding Molecules in Cooking
+---
+
 ### Understanding molecules: proteins, carbohydrates, fats
 
 Cooking is often described as an art, but it's equally a science—a science deeply rooted in chemistry and biology. When we cook, we interact with the molecules that make up food, transforming them to enhance flavors, textures, and nutritional qualities. At the heart of this transformation are three essential types of biomolecules: proteins, carbohydrates, and fats. Each of these molecules plays a key role in how food tastes, smells, and behaves under heat. In this post, we will explore these molecules in the context of vegetable stock and stir fry, two common dishes that highlight how chemistry drives cooking.

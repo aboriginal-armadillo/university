@@ -1,0 +1,28 @@
+topics:
+  - Exploring the Maillard Reaction
+  - Understanding Basic Chemistry in Cooking
+  - Understanding Molecules- Proteins, Carbohydrates, Fats
+
+lectures:
+  - title: The Maillard Reaction
+    file: Maillard-reaction
+
+  - title: Basic Chemistry Concepts in Cooking
+    file: basic-chem
+
+  - title: Understanding Molecules
+    file: understanding-molecules
+
+dishes:
+  - name: Vegetable Stock
+    url: /dept/culinary-arts/ca103/week1/veg-stock/
+
+  - name: Vegetable Stir-Fry
+    url: /dept/culinary-arts/ca103/week1/stirfry/
+
+bonus:
+  - name: Carrot Stock
+    url: /dept/culinary-arts/ca103/week1/carrot-stock/
+
+  - name: Stir-Fry Sauce using Carrot Stock
+    url: /dept/culinary-arts/ca103/week1/carrot-stir-fry-sauce/

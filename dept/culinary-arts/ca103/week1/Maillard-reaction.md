@@ -1,3 +1,8 @@
+---
+layout: lecture
+title: The Maillard Reaction
+---
+
 # The Maillard Reaction: A Culinary and Chemical Phenomenon
 
 The Maillard reaction is one of the most critical and fascinating processes in cooking, often associated with the browning and complex flavor development of foods. This reaction occurs when amino acids (the building blocks of proteins) react with reducing sugars at elevated temperatures, typically above 140°C (285°F). It’s essential for achieving rich, savory flavors and aromatic compounds in a wide range of dishes—from bread crusts and seared meats to the humble vegetable stir-fry.
