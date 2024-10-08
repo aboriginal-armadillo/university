@@ -1,7 +1,4 @@
----
-layout: lecture
-title: Basic Chemistry Concepts in Cooking
----
+
 ### Basic Chemistry Concepts in Cooking
 
 Cooking is more than just an art; it’s a science that transforms raw ingredients into delicious meals through chemical reactions. Understanding the basic chemistry behind these transformations can elevate your cooking skills. In this blog post, we’ll dive into the fundamental principles of cooking chemistry, focusing on how they apply to vegetable stock and stir-fry.

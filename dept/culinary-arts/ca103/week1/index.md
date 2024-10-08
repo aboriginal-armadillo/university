@@ -2,6 +2,7 @@
 layout: week
 title: Week 1
 subtitle: Introduction to Food Science in Cooking
+data_source: ca103-wk1
 ---
 
 ## Key Topics:

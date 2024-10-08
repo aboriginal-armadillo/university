@@ -1,7 +1,3 @@
----
-layout: lecture
-title: Understanding Molecules in Cooking
----
 
 ### Understanding molecules: proteins, carbohydrates, fats
 

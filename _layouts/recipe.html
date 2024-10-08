@@ -12,21 +12,7 @@
     <h1 class="text-center mb-4">{{ page.title }}</h1>
 
     <div class="mt-5">
-        <h3>Ingredients:</h3>
-        <ul class="list-group">
-            {% for ingredient in page.ingredients %}
-            <li class="list-group-item">{{ ingredient }}</li>
-            {% endfor %}
-        </ul>
-    </div>
-
-    <div class="mt-5">
-        <h3>Instructions:</h3>
-        <ol class="list-group list-group-numbered">
-            {% for step in page.instructions %}
-            <li class="list-group-item">{{ step }}</li>
-            {% endfor %}
-        </ol>
+        {{ content | markdownify }}
     </div>
 
 </div>

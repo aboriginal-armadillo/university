@@ -1,7 +1,3 @@
----
-layout: lecture
-title: The Maillard Reaction
----
 
 # The Maillard Reaction: A Culinary and Chemical Phenomenon
 
@@ -48,4 +44,12 @@ Oil also plays a crucial role. It serves as a medium for even heat distribution,
 
 ## Health Implications
 
-While the Maillard reaction contributes
+While the Maillard reaction contributes positively to flavor and appearance, it can also produce certain undesirable byproducts when cooking at very high temperatures, such as acrylamide. Acrylamide is a potentially harmful chemical that forms in some starchy foods when they are cooked at high temperatures (over 120°C/250°F), such as frying or baking. However, in the context of vegetables, this risk is generally lower compared to high-starch foods like potatoes or bread.
+
+To mitigate the formation of acrylamide in cooking, aim for light browning rather than heavy charring. For vegetable stock, this is rarely an issue because roasting is done at a controlled temperature, and the cooking process is much more moderate when the broth is simmering.
+
+## Final Thoughts: The Power of the Maillard Reaction in Plant-Based Cooking
+
+The Maillard reaction is an essential tool in any chef's repertoire, offering a way to deepen flavors and create complexity in plant-based dishes like vegetable stock and stir-fry. Understanding the balance of heat, moisture, and time can help you leverage this reaction to bring out the best in your ingredients.
+
+The next time you're roasting vegetables for stock or stir-frying your favorite mix of veggies, remember that you're conducting a mini-chemistry experiment in your kitchen. The complex reactions between amino acids and sugars are quietly working behind the scenes, transforming humble vegetables into flavor-packed components of a delicious meal.
