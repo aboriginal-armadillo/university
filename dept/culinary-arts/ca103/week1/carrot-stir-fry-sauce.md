@@ -1,3 +1,8 @@
+---
+title: Carrot Stock
+layout: recipe
+---
+
 ## Carrot Broth Stir Fry Sauce
 
 ### Ingredients:

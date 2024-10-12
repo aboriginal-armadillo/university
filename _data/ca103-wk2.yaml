@@ -1,0 +1,28 @@
+topics:
+  - Understanding Simple and Complex Carbohydrates
+  - Geletinization and Dextrinization
+  - Fiber's Role in Cooking
+
+lectures:
+  - title: Understanding Simple and Complex Carbohydrates
+    file: complex-carbs
+
+  - title: Geletinization and Dextrinization
+    file: geletanization-and-dextrinization
+
+  - title: Fibers Role in Cooking
+    file: fibers-role-in-cooking
+
+  - title: Incorporating Toddlers into the Kitchen
+    file: toddlers
+
+dishes:
+  - name: Vegan Risotto
+    url: /dept/culinary-arts/ca103/week2/vegan-risotto
+
+  - name: Whole Grain Bread
+    url: /dept/culinary-arts/ca103/week2/whole-grain-bread
+
+bonus:
+
+

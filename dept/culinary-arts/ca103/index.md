@@ -31,7 +31,7 @@ This course delves into the scientific principles behind cooking and the functio
 
 ---  
 
-## Week 2: Carbohydrates – Structure and Function
+## [Week 2: Carbohydrates – Structure and Function](week2/)
 
 **Key Topics:**
 - Understanding simple and complex carbohydrates
