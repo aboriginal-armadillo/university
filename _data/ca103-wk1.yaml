@@ -15,14 +15,14 @@ lectures:
 
 dishes:
   - name: Vegetable Stock
-    url: /dept/culinary-arts/ca103/week1/veg-stock
+    url: /dept/culinary-arts/ca103/week1/veg-stock.html
 
   - name: Vegetable Stir-Fry
-    url: /dept/culinary-arts/ca103/week1/stirfry
+    url: /dept/culinary-arts/ca103/week1/stirfry.html
 
 bonus:
   - name: Carrot Stock
-    url: /dept/culinary-arts/ca103/week1/carrot-stock
+    url: /dept/culinary-arts/ca103/week1/carrot-stock.html
 
   - name: Stir-Fry Sauce using Carrot Stock
-    url: /dept/culinary-arts/ca103/week1/carrot-stir-fry-sauce
+    url: /dept/culinary-arts/ca103/week1/carrot-stir-fry-sauce.html
