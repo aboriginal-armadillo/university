@@ -51,7 +51,7 @@ This course delves into the scientific principles behind cooking and the functio
 
 ---  
 
-## Week 3: Proteins in Plant-Based Foods
+## [Week 3: Proteins in Plant-Based Foods](week3/)
 
 **Key Topics:**
 - Protein structures and denaturation

@@ -1,0 +1,32 @@
+topics:
+  - Understanding Simple and Complex Carbohydrates
+  - Exploring Enzymatic Reactions in Plant-Based Foods
+  - Exploring Plant-Based Protein Sources
+
+lectures:
+  - title: Understanding Protein Structures and Denaturation
+    file: protein-structures
+
+  - title: Exploring Enzymatic Reactions in Plant-Based Foods
+    file: enzymatic-reactions
+
+  - title: Exploring Plant-Based Protein Sources
+    file: plant-protein
+
+
+dishes:
+  - name: Homemade Tofu
+    url: /dept/culinary-arts/ca103/week3/homemade-tofu.html
+
+  - name: Chickpea Omelet
+    url: /dept/culinary-arts/ca103/week3/chickpea-omelet.html
+
+  - name: Enhanced Homemade Tofu
+    url: /dept/culinary-arts/ca103/week3/homemade-tofu-enhanced.html
+    
+  - name: Enhanced Chickpea Omelet
+    url: /dept/culinary-arts/ca103/week3/chickpea-omelet-enhanced.html
+
+bonus:
+
+
