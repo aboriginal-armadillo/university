@@ -1,0 +1,32 @@
+topics:
+  - Types of fats- saturated vs. unsaturated
+  - Exploring Enzymatic Reactions in Plant-Based Foods
+  - Exploring Plant-Based Protein Sources
+
+lectures:
+  - title: Types of fats- saturated vs. unsaturated
+    file: types-of-fats
+
+  - title: Emulsification Processes in Cooking
+    file: emulsification
+
+  - title: The Multifaceted Role of Fats in Texture and Flavor
+    file: role-of-fats
+
+
+dishes:
+  - name: Vegan Mayonnaise (Aquafaba-based)
+    url: /dept/culinary-arts/ca103/week4/mayonnaise.html
+
+  - name: Flaky Vegan Pie Crust
+    url: /dept/culinary-arts/ca103/week4/pie-crust.html
+
+  - name: Enhanced Vegan Mayonnaise (Aquafaba-based)
+    url: /dept/culinary-arts/ca103/week4/mayonnaise-enhanced.html
+
+  - name: Enhanced Flaky Vegan Pie Crust
+    url: /dept/culinary-arts/ca103/week4/pie-crust-enhanced.html
+
+bonus:
+
+

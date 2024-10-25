@@ -71,7 +71,7 @@ This course delves into the scientific principles behind cooking and the functio
 
 ---  
 
-## Week 4: Fats and Their Culinary Roles
+## [Week 4: Fats and Their Culinary Roles](week4/)
 
 **Key Topics:**
 - Types of fats: saturated vs. unsaturated
