@@ -1,3 +1,7 @@
+---
+title: Vegan Buttermilk Pancakes
+layout: recipe
+---
 
 # Vegan Buttermilk Pancakes  
   

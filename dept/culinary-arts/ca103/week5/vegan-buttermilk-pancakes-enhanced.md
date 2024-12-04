@@ -1,5 +1,9 @@
+---
+title: Vegan Buttermilk Pancakes (Enhanced)
+layout: recipe
+---
 
-# Vegan Buttermilk Pancakes  
+# Vegan Buttermilk Pancakes (Enhanced  
   
 ## Ingredients:  
 - 1 cup plant-based milk (such as almond, soy, or oat)  

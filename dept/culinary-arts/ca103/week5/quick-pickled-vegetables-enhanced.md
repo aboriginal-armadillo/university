@@ -1,5 +1,9 @@
+---
+title: Quick Pickled Vegetables (Enhanced)
+layout: recipe
+---
 
-# Quick Pickled Vegetables Recipe  
+# Quick Pickled Vegetables Recipe (Enhanced)  
   
 This recipe will guide you through making quick pickled vegetables, a delicious and tangy addition to complement sandwiches, salads, or as a snack on their own.  
   

@@ -1,3 +1,7 @@
+---
+title: Quick Pickled Vegetables
+layout: recipe
+---
 
 # Quick Pickled Vegetables Recipe  
   

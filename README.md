@@ -4,3 +4,4 @@
 2. Copy Index.md from the previous week and update the title and subtitle. As well as data_source, and Key Topics
 3. Create a new file from copy in `_data` folder.
 4. Add link to course index page.
+5. Remember to add head matter on recipes
