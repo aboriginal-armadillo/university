@@ -91,7 +91,7 @@ This course delves into the scientific principles behind cooking and the functio
 
 ---  
 
-## Week 5: Acids, Bases, and pH in Cooking
+## [Week 5: Acids, Bases, and pH in Cooking](week5/)
 
 **Key Topics:**
 - Understanding pH scale in cooking

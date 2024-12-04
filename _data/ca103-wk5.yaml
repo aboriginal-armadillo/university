@@ -1,0 +1,39 @@
+topics:
+  - Understanding the Role of pH in Culinary Arts
+  - Exploring the Role of Acids and Bases in Food Chemistry
+  -
+
+lectures:
+  - title: Understanding the Role of pH in Culinary Arts
+    file: ph-in-ca
+
+  - title: Exploring the Role of Acids and Bases in Food Chemistry
+    file: acids-and-bases
+
+  - title: Exploring Chemical Leavening Agents
+    file: chemical-leavening
+
+
+dishes:
+  - name: Vegan Buttermilk Pancakes
+    url: /dept/culinary-arts/ca103/week5/vegan-buttermilk-pankcakes.html
+
+  - name: Vegan Buttermilk Pancakes (Enhanced
+    url: /dept/culinary-arts/ca103/week5/vegan-buttermilk-pankcakes-enhanced.html
+
+  - name: Quick Pickled Vegetables
+    url: /dept/culinary-arts/ca103/week5/quick-pickled-vegetables.html
+
+  - name: Quick Pickled Vegetables (Enhanced)
+    url: /dept/culinary-arts/ca103/week5/quick-pickled-vegetables-enhanced.html
+
+bonus:
+  - name: The Role of PH in Cooking
+    url: https://foodsciencetoolbox.com/the-role-of-ph-in-food-processing/
+
+  - name: Baking Soda v. Baking Powder
+    url: https://www.healthline.com/nutrition/baking-soda-vs-baking-powder
+
+  - name: Quick Pickling Tutorial (YouTube)
+    url: https://www.youtube.com/watch?v=RTpWbcTvEPM
+
